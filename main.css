@@ -1,0 +1,27 @@
+.header{
+    color: brown;
+    text-align:center;
+    font-size: 30px;
+     }
+     .styleforall{
+      background-color:brown;
+      width: 500px;
+      height: 200px;
+      text-align: center;
+      padding: 10px 20px;
+      border-radius: 20px;
+      color: white;
+    display: inline-block;
+    margin-left: 90px;
+     }
+     .button{
+         font-size: 20px;
+         font-weight: 100;
+         padding: 10px 20px;
+         border-radius: 8px;
+         color: rgb(66, 18, 1);
+         cursor: pointer;
+     }
+    
+    
+    
